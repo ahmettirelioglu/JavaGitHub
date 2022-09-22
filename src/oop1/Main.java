@@ -45,7 +45,6 @@ public class Main {
         individualCustomer.setFirstName("Engin");
         individualCustomer.setLastName("Demir");
             System.out.println(individualCustomer.getFirstName());
-        System.out.println(individualCustomer.getFirstName());
 
 
 
