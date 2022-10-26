@@ -1,0 +1,18 @@
+.search-section {
+        background-color: #eeeeee;
+        width: 90%;
+}
+.center {
+        text-align: center;
+}
+#td-1 {
+        width: 35%;
+        background-color: red;
+}
+#td-2 {
+        background-color: rgb(112,204,194);
+        
+}
+#td-3 {
+        background-color: rgb(98,179,170);
+}
